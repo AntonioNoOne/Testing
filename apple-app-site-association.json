@@ -3,12 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "6468564854.com.apple.wwdc",
-                "paths": [ "/apple-app-site-association.json"]
-            },
-            {
-                "appID": "6468564854.com.apple.wwdc",
-                "paths": [ "*" ]
+                "appID": "6468564854.com.JumpGroupSrl.TomassiniVerso",
+                "paths": [ "/apple-app-site-association.json" ]
             }
         ]
     }
